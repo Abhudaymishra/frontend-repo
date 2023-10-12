@@ -121,13 +121,11 @@ In case we find your PR not relevant or spam, we will mark it as invalid and it 
 <table align="center">
   <tr>
     <td>
-       <a href="https://github.com/Ankur-Sh/Vajra/graphs/contributors" align="center">
-          <img src="https://contrib.rocks/image?repo=Ankur-Sh/Vajra" />
+       <a href="https://github.com/TusharKesarwani/Front-End-Projects/graphs/contributors" align="center">
+          <img src="https://contrib.rocks/image?repo=TusharKesarwani/Front-End-Projects" />
        </a>
     </td>
   </tr>
-</table>
-
 <hr>
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
